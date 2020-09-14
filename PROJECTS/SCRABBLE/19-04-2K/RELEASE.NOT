@@ -1,0 +1,9 @@
+- Bo cac chu Blank
+- Scrabble.Players:
+    Players quan ly tat ca cac thong tin ve Player 
+    cung nhu cac dich vu ve Player nhu HumanTurn, ComputerTurn, ApplyTurn
+- Scrabble.Players tham chieu toi Table: 
+    Players se co the thay doi cac gia tri cua table va yeu cau Table cap nhap
+- Scrabble.Players.ApplyTurn:
+    Cap nhap cac thong tin ve nuoc di, bao gom:
+      + 

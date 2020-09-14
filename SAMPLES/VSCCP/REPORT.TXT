@@ -1,0 +1,5 @@
+Very Simple Chinese Chess (VSCCP) version 1.5
+Author: Pham Hong Nguyen
+Date: 1/1/1999. At 1h39"
+HUMAN COMPUTER
+1 H2G2 B9C7

@@ -1,0 +1,64 @@
+Nghiem thu 1:
+1---6---7
+| / | \ |
+8---5---2
+| \ | / |
+3---4---9
+Tong 4 dinh moi hinh la: 20
+
+Nghiem thu 2:
+1---8---3
+| / | \ |
+6---5---4
+| \ | / |
+7---2---9
+Tong 4 dinh moi hinh la: 20
+
+Nghiem thu 3:
+3---4---9
+| / | \ |
+8---5---2
+| \ | / |
+1---6---7
+Tong 4 dinh moi hinh la: 20
+
+Nghiem thu 4:
+3---8---1
+| / | \ |
+4---5---6
+| \ | / |
+9---2---7
+Tong 4 dinh moi hinh la: 20
+
+Nghiem thu 5:
+7---2---9
+| / | \ |
+6---5---4
+| \ | / |
+1---8---3
+Tong 4 dinh moi hinh la: 20
+
+Nghiem thu 6:
+7---6---1
+| / | \ |
+2---5---8
+| \ | / |
+9---4---3
+Tong 4 dinh moi hinh la: 20
+
+Nghiem thu 7:
+9---2---7
+| / | \ |
+4---5---6
+| \ | / |
+3---8---1
+Tong 4 dinh moi hinh la: 20
+
+Nghiem thu 8:
+9---4---3
+| / | \ |
+2---5---8
+| \ | / |
+7---6---1
+Tong 4 dinh moi hinh la: 20
+

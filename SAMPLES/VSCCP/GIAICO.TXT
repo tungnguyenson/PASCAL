@@ -1,0 +1,347 @@
+
+                Gi¶i cê T­íng trªn m¸y tÝnh
+
+1. Giíi thiÖu
+   Gi¶i cê T­íng trªn m¸y tÝnh do §¹i häc Quèc gia Hµ  Néi vµ  T¹p chÝ
+   ThÕ Giíi Vi TÝnh (PC World ViÖt Nam) ®ång tæ chøc. §©y lµ  gi¶i thi
+   ®Êu gi÷a c¸c ch­¬ng tr×nh cê T­íng ch¹y  trªn m¸y  vi tÝnh  ®Êu víi
+   nhau.
+
+   Dù ®Þnh gi¶i sÏ tiÕn hµnh hµng n¨m vµ vµo  cuèi n¨m.  Thêi  gian vµ
+   ®Þa ®iÓm thi ®Êu chóng t«i sÏ c«ng bè trªn t¹p chÝ ThÕ giíi Vi tÝnh
+   tr­íc ®ã Ýt nhÊt 3 th¸ng.
+
+2. Ng­êi tham dù vµ c¸ch tham dù gi¶i
+   Mäi ng­êi ®Òu ®­îc hoan nghªnh tham gia gi¶i.  Ng­êi  dù thi  sÏ tù
+   viÕt mét ch­¬ng tr×nh cê T­íng hoµn chØnh,  ch¹y  ®­îc trªn  m¸y hä
+   IBM-PC, hÖ ®iÒu hµnh tõ Windows 95 trë lªn, vµ göi cho ban tæ chøc.
+   Ng­êi göi cã thÓ göi b»ng ®Üa mÒn trùc tiÕp, qua  b­u ®iÖn  hoÆc cã
+   thÓ göi qua th­ ®iÖn tö (email). Thêi h¹n göi  ph¶i tr­íc  ngµy ban
+   tæ chøc c«ng bè (nÕu b»ng b­u ®iÖn sÏ c¨n cø vµo dÊu b­u ®iÖn).
+
+   Mçi ng­êi (d­íi mét c¸i tªn vµ ®Þa chØ) chØ ®­îc  phÐp göi  tham dù
+   mét ch­¬ng tr×nh.
+
+   C¸c ch­¬ng tr×nh tham gia ®Òu ph¶i ®¸p øng nh÷ng  yªu cÇu  kÜ thuËt
+   ®ßi hái d­íi ®©y.
+
+3. C¸c qui ®Þnh ®Ó hai ch­¬ng tr×nh cê thi ®Êu
+   C¸c ch­¬ng tr×nh tham gia gi¶i sÏ ph¶i thi ®Êu tù ®éng víi  nhau mµ
+   kh«ng cÇn cã sù gióp ®ì cña ng­êi. Do ®ã  chóng cÇn  ph¶i cã  mét "
+   tiÕng nãi" chung ®Ó cã thÓ hiÓu nhau.  NÕu b¹n  muèn tham  gia gi¶i
+   th× cÇn ph¶i viÕt ch­¬ng tr×nh theo nh÷ng qui ®Þnh nµy.
+
+   Chó ý: nh÷ng ch­¬ng tr×nh lµm sai qui ®Þnh sÏ  ®­¬ng nhiªn  bÞ t­íc
+   quyÒn thi ®Êu. Râ rµng chñ nh©n cña nã kh«ng thÓ  gi¶i thÝch,  ph©n
+   bua thay cho ch­¬ng tr×nh cña m×nh víi c¸c ch­¬ng tr×nh kh¸c ®­îc.
+
+   C¸c qui ®Þnh vÒ an toµn (®èi víi  ch­¬ng tr×nh  tham gia).  C¸c qui
+   ®Þnh d­íi ®©y gióp cho viÖc tæ chøc gi¶i  ®¬n gi¶n  h¬n vµ  ®¶m b¶o
+   gi¶i sÏ tiÕn hµnh nghiªm tóc vµ c«ng b»ng.
+   + Lµ ch­¬ng tr×nh ch¹y trªn m¸y vi tÝnh (ban tæ chøc sÏ dïng c¸c m¸y
+     vi tÝnh cì Pentum, 32 MB RAM trë lªn).
+   + Ch¹y ®­îc trong hÖ ®iÒu hµnh: hä MS  Windows  (tõ Windows  95 trë
+     lªn). §­îc phÐp ch¹y trong DOS cña Windows.
+   + Ch­¬ng tr×nh thi ®Êu cã d¹ng lµ file ch¹y  vµ ph¶i  cã tªn  lµ CC
+     (tªn lµ CC.EXE hoÆc CC. BAT, CC.COM ®Òu ®­îc). Kh«ng ®­îc ®ßi hái
+     m¸y ph¶i cµi ®Æt s½n c¸c phÇn mÒm bÊt k×.
+   + ChØ ®­îc phÐp cµi ®Æt b»ng mét ch­¬ng tr×nh bat mµ trong ®ã kh«ng
+     ®­îc ch¹y bÊt cø file cµi ®Æt exe nµo. Tr×nh nµy cã tªn lµ SETUP.
+     BAT. NÕu kh«ng cã tr×nh nµy th× ban tæ  chøc sÏ  chÐp tÊt  c¶ c¸c
+     ®Üa vµo mét th­ môc ®­îc cÊp ph¸t.
+   + Kh«ng ®­îc ®ßi hái ph¶i reset l¹i hÖ thèng tr­íc khi ch¹y.
+   + Kh«ng tù ý thay ®æi hÖ thèng hoÆc thay ®æi bÊt k× file  nµo ngoµi
+     c¸c file n»m trong c¸c th­ môc ®­îc phÐp  (bao  gåm th­  môc chøa
+     ch­¬ng tr×nh, c¸c th­ môc chøa c¸c file n­íc ®i).
+   + Ch­¬ng tr×nh ph¶i lu«n lu«n hiÖn ®Çy  ®ñ c¸c  th«ng tin  vÒ ng­êi
+     viÕt ch­¬ng tr×nh trªn mµn h×nh:  hä  tªn vµ  ®Þa chØ.   Ngoµi ra
+     trong file REPORT. TXT (sÏ ®Ò cËp ®Õn d­íi ®©y) còng ph¶i  cã c¸c
+     th«ng tin nµy.
+   + Kh«ng bÞ nhiÔm virus.
+   + Kh«ng cã c¸c hµnh vi ph¸ ho¹i (nh­ cè t×nh l©y lan virus,  ph¸ hÖ
+     thèng).
+   + Kh«ng ®­îc ng¨n c¶n c¸c ch­¬ng tr×nh  kh¸c ®ang  ch¹y  (th­êng lµ
+     c¸c ch­¬ng tr×nh gi¸m s¸t cña ban tæ chøc).
+   + Ph¶i theo ®óng c¸c h­íng dÉn thi ®Êu cña träng tµi (qua c¸c th«ng
+     tin l­u trong file PLAY.INI vµ c¸c file ghi n­íc ®i).
+
+  Qui ®Þnh kÝ hiÖu c¸c vÞ trÝ bµn cê
+   + C¸c cét tõ bªn tr¸i sang ph¶i ®­îc ®Æt tªn b»ng c¸c ch÷  c¸i viÕt
+     hoa tõ A ®Õn I.
+   + C¸c dßng ®­îc ®¸nh sè tõ d­íi lªn trªn b¾t ®Çu b»ng sè 0  vµ t¨ng
+     ®Õn 9.
+   + Mét vÞ trÝ bµn cê (®«i khi cßn gäi lµ «)  ®­îc  kÝ hiÖu  b»ng tªn
+     ch÷ c¸i cét vµ tiÕp ngay sau lµ sè dßng.
+   + Mét n­íc ®i ®­îc kÝ hiÖu b»ng vÞ trÝ ®iÓm xuÊt ph¸t vµ  tiÕp ngay
+     sau lµ vÞ trÝ ®iÓm ®Õn, kh«ng cã kho¶ng trèng ë gi÷a.
+     VÝ dô: H7E5
+           +---+---+---+---E9--+---+---+---+ 9
+           |   |   |   | \ | / |   |   |   |
+           +---+---+---+---+---+---+---+---+ 8
+           |   |   |   | / | \ |   |   |   |
+           +---B7--+---+---+---+---+---*---+ 7
+           |   |   |   |   |   |   |   |   |
+           +---+---+---+---+---+---+---+---+ 6
+           |   |   |   |   |   |   |   |   |
+           +---+---+---+---+---+---+---+---+ 5
+           |                               |
+           A4--+---+---+---+---+---+---+---+ 4
+           |   |   |   |   |   |   |   |   |
+           +---+---+---+---+---+---+---+---+ 3
+           |   |   |   |   |   |   |   |   |
+           +---*---+---+---+---+---+---*---+ 2
+           |   |   |   | \ | / |   |   |   |
+           +---+---+---+---+---+---+---+---+ 1
+           |   |   |   | / | \ |   |   |   |
+           +---+---+---+---+---F0--+---+---+ 0
+           A   B   C   D   E   F   G   H   I
+          C¸ch kÝ hiÖu c¸c « bµn cê vµ mét sè vÝ dô
+
+  Bªn ®i tr­íc
+   Bªn nöa d­íi (chiÕm c¸c dßng ®¸nh sè tõ 0  ®Õn 4)   lu«n lµ  bªn ®i
+   tr­íc.
+
+  Qui ®Þnh vÒ c¸ch giao tiÕp hai bªn
+   Nguyªn t¾c giao tiÕp vµ lÊy th«ng tin vÒ thi ®Êu lµ qua  ®äc /  ghi
+   c¸c file mµ kh«ng hÒ cÇn sù can thiÖp cña con ng­êi (trõ  viÖc khëi
+   ®éng ch­¬ng tr×nh). Mäi th«ng tin cÇn thiÕt ban ®Çu ®Òu  chøa trong
+   file PLAY.INI, c¸c th«ng tin vÒ n­íc ®i chøa trong c¸c file n­íc ®i
+   (mµ tªn file, th­ môc l¹i qui ®Þnh trong PLAY.INI) ,   ch­¬ng tr×nh
+   buéc ph¶i t¹o vµ ghi biªn b¶n trËn ®Êu ra file REPORT.TXT.
+
+a. Qui ®Þnh néi dung file PLAY.INI
+   + §Æt ë th­ môc hiÖn t¹i (n¬i ®øng ®Ó gäi ch­¬ng tr×nh cê cña b¹n).
+   + Lµ mét file v¨n b¶n (TEXT).
+   + C¸c ch÷ c¸i ®Òu lµ ch÷ viÕt hoa A-Z. Kh«ng dïng c¸c ch÷ c¸i cã m·
+     lín h¬n 127 (kh«ng dïng tiÕng ViÖt).
+   + C¸c th«ng tin ®Òu ®­îc l­u riªng thµnh  tõng dßng,  mçi  dßng mét
+     th«ng tin vµ mçi th«ng tin ®­îc qui  ®Þnh viÕt  trªn mét  dßng cã
+     thø tù nhÊt ®Þnh. Kh«ng  cã kho¶ng  trèng thõa  hoÆc c¸c  kÝ hiÖu
+     kh«ng cÇn thiÕt.
+   + Qui ®Þnh chi tiÕt c¸c dßng nh­ sau:
+
+     Dßng 1: Cho biÕt bªn ®i tr­íc (bªn nöa d­íi cã  c¸c dßng  ®¸nh sè
+     tõ 0 ®Õn 4) lµ ng­êi, m¸y hoÆc mét ch­¬ng tr×nh kh¸c. Gi¸ trÞ cña
+     dßng nµy chØ cã thÓ lµ mét trong ba tõ sau:
+        COMPUTER: ch­¬ng tr×nh cña b¹n tù ch¬i.
+        HUMAN:    ng­êi sÏ ch¬i vµ dïng  bµn phÝm / chuét
+                  ®iÒu khiÓn ch­¬ng tr×nh cña b¹n.
+        OTHER:    ®èi thñ lµ mét ch­¬ng tr×nh kh¸c sÏ thi
+                  ®Êu víi ch­¬ng tr×nh cña b¹n.
+
+     Dßng 2: Cho biÕt bªn ®i sau (bªn nöa trªn cã c¸c dßng ®¸nh  sè tõ
+     5 ®Õn 9) lµ ng­êi, m¸y hoÆc mét ch­¬ng  tr×nh kh¸c.  Gi¸  trÞ cña
+     dßng nµy chØ  cã thÓ  lµ mét  trong ba  tõ vµ  ý nghÜa  nh­ trªn:
+     COMPUTER, HUMAN, OTHER.
+
+     Víi néi dung c¸c dßng 1  vµ 2  nh­ trªn  b¹n cã  thÓ tæ  chøc cho
+     ng­êi ®Êu víi m¸y,  ng­êi  ®Êu víi  ng­êi  (trªn cïng  mét ch­¬ng
+     tr×nh) hoÆc cho ng­êi hoÆc m¸y ®Êu víi mét ch­¬ng tr×nh kh¸c  (mµ
+     trªn ch­¬ng tr×nh ®ã l¹i cã thÓ m¸y hoÆc ng­êi).
+
+     Chó ý:
+            *  Khi ch­¬ng tr×nh cña b¹n tham gia  vµo gi¶i  cê th×
+               néi dung cña mét trong hai dßng ph¶i lµ COMPUTER vµ
+               dßng kia ph¶i lµ OTHER.
+            *  C¸c dßng sau (tõ 3 ®Õn 6) chØ cã Ých khi ch­¬ng tr×nh
+               cña b¹n thi ®Êu víi mét ch­¬ng tr×nh kh¸c, cã nghia
+               lµ mét trong hai dßng ®Çu ph¶i cã ch÷ OTHER
+
+     Dßng 3: M· sè cña ®èi thñ, lµ mét sè  nguyªn nhá  h¬n 65000.  Cho
+     b¹n biÕt th«ng tin rÊt s¬ l­îc vÒ ®Êu thñ. Th­êng nã chØ gióp cho
+     c¸c ch­¬ng tr×nh nhËn biÕt ®ang ®Êu l¹i  víi mét  ®Êu thñ  cò hay
+     kh«ng.
+
+     Dßng 4: Thêi gian ®­îc phÐp ch¬i tÝnh theo gi©y. Lµ mét sè nguyªn
+     nhá h¬n 32000.
+     NÕu dßng nµy l¹i lµ -1 th×  ®©y lµ  mét v¸n  ®Êu kh«ng  tÝnh thêi
+     gian.
+
+     Dßng 5: Tªn cña file (cã ®Çy ®ñ ®­êng dÉn)  ®Ó  bªn ®i  tr­íc ghi
+     n­íc ®i ra (vµ bªn ®i sau sÏ chê vµ ®äc vµo).
+
+     Dßng 6: Tªn cña file (cã ®Çy ®ñ ®­êng dÉn) ®Ó bªn ®i sau ghi n­íc
+     ®i ra (vµ bªn ®i tr­íc sÏ chê vµ ®äc vµo).
+
+     VÝ dô néi dung cña mét file PLAY.INI:
+               OTHER
+               COMPUTER
+               12891
+               3600
+               C:\MOVE\M1.DAT
+               C:\MOVE\M2.DAT
+
+     Néi dung trªn cho biÕt ch­¬ng tr×nh cña b¹n sÏ  cÇm c¸c  qu©n nöa
+     trªn (dßng tõ 5 ®Õn 9) vµ sÏ ®i sau (®i hËu). Nã  sÏ ®Êu  víi ®èi
+     thñ lµ mét ch­¬ng tr×nh m¸y tÝnh kh¸c cã m· sè 12891 (®èi  thñ sÏ
+     cÇm qu©n nöa d­íi vµ ®­îc ®i tr­íc). Tæng thêi gian  ch­¬ng tr×nh
+     cña b¹n ®­îc "nghÜ" lµ 60 phót (3600 gi©y), mçi khi ®i nã  sÏ ghi
+     n­íc ®i ra file M2.DAT ®Æt ë th­ môc C:\MOVE\  vµ  nã sÏ  chê ®èi
+     ph­¬ng ®i vµ ®äc n­íc ®i ®ã ë file M1.DAT ®Æt cïng th­ môc nµy.
+
+     VÝ dô néi dung cña mét file PLAY.INI:
+               COMPUTER
+               HUMAN
+               28
+               -1
+     Néi dung trªn cho biÕt ch­¬ng tr×nh cña b¹n lµ ng­êi ®i tr­íc (®i
+     tiªn), ®Êu víi mét ng­êi cã m· sè 28. §©y lµ  mét trËn  ®Êu kh«ng
+     tÝnh giê.
+
+b. Qui ®Þnh néi dung c¸c file ghi n­íc ®i
+   + Cã tªn file vµ ®Æt ë th­ môc ®· ®­îc qui ®Þnh trong  dßng 6  vµ 7
+     cña file PLAY.INI: Dßng 6 lµ tªn file (cã ®ñ ®­êng dÉn)  ®Ó ng­êi
+     ®i tr­íc ghi n­íc ®i ra (ng­êi ®i sau ®äc vµo) ;   Dßng 7  lµ tªn
+     file (cã ®ñ ®­êng dÉn) ®Ó ng­êi ®i sau ghi n­íc ®i  ra  (ng­êi ®i
+     tr­íc ®äc vµo).
+   + Lµ mét file v¨n b¶n (TEXT).
+   + C¸c ch÷ c¸i ®Òu lµ ch÷ viÕt hoa A-Z. Kh«ng dïng c¸c ch÷ c¸i cã m·
+     lín h¬n 127 (kh«ng dïng tiÕng ViÖt).
+   + C¸c th«ng tin ®Òu ®­îc l­u riªng thµnh  tõng dßng,  mçi  dßng mét
+     th«ng tin vµ mçi th«ng tin ®­îc qui ®Þnh viÕt trªn mét  dßng nhÊt
+     ®Þnh.  Kh«ng  cã kho¶ng  trèng thõa  hoÆc c¸c  kÝ hiÖu  kh«ng cÇn
+     thiÕt.
+   + Qui ®Þnh chi tiÕt c¸c dßng nh­ sau:
+
+     Dßng 1: Cho biÕt n­íc ®i bao gåm tªn cña « xuÊt ph¸t vµ tªn cña «
+     ®Õn - viÕt kÒ liÒn kh«ng cã kho¶ng trèng. Tªn cña c¸c «  nµy theo
+     qui ®Þnh vÒ tªn «. Ngoµi ra  cßn cã  4 tr­êng  hîp kh¸c  cho biÕt
+     t×nh tr¹ng thi ®Êu:
+        FINISH: v¸n ®Êu kÕt thóc - ch­a râ kÕt qu¶.
+        WIN : ng­êi ghi th«ng b¸o lµ ng­êi chiÕn th¾ng.
+        LOST: ng­êi ghi th«ng b¸o lµ ng­êi thua.
+        DRAW: hoµ.
+     Chó ý: nh÷ng  tuyªn bè  t×nh tr¹ng  trËn ®Êu  nh­ trªn  th­êng do
+     träng tµi thùc hiÖn. Ch­¬ng tr×nh thi ®Êu kh«ng nªn th«ng b¸o nh­
+     vËy (trõ tuyªn bè thua hoÆc ph¶i rÊt ch¾c ch¾n)  v× nÕu  tuyªn bè
+     sai sÏ bÞ träng tµi xö thua. NÕu  gÆp th«ng  b¸o d¹ng  nµy ch­¬ng
+     tr×nh cña b¹n cã thÓ tù ®éng kÕt thóc.
+
+     Dßng 2: Thêi gian cßn l¹i cña ®èi  thñ ®i  tr­íc  (®i tiªn)  tÝnh
+     theo gi©y. Lµ mét sè nguyªn nhá h¬n 32000. NÕu gi¸ trÞ lµ - 1 th×
+     kh«ng tÝnh thêi gian.
+
+     Dßng 3: Thêi gian cña ®èi thñ ®i sau (®i hËu)  cßn l¹i  tÝnh theo
+     gi©y. Lµ mét sè nguyªn nhá h¬n 32000. NÕu gi¸ trÞ lµ -1 th× kh«ng
+     tÝnh thêi gian.
+
+     Chó ý: gi¸ trÞ cña dßng 2 vµ 3 th­êng do träng  tµi tÝnh  to¸n vµ
+     tr¶ vÒ. Gi¸ trÞ do ch­¬ng  tr×nh b¹n  tù tÝnh  sÏ kh«ng  ®­îc xem
+     xÐt. NÕu hai ch­¬ng tr×nh ®Êu kh«ng cã träng tµi th× tèt  nhÊt lµ
+     kh«ng tÝnh thêi gian hoÆc tù tÝnh víi nhau.
+
+     VÝ dô néi dung mét file n­íc ®i cã tªn lµ M2.DAT:
+        A7A8
+        1800
+        -1
+     Néi dung trªn cho biÕt ch­¬ng tr×nh (t¹o file nµy) ®·  quyÕt ®Þnh
+     ®i qu©n cê tõ « A7 ®Õn « A8. Thêi gian  cßn l¹i  cña ®Êu  thñ thø
+     nhÊt lµ 1800 gi©y, vµ m¸y kh«ng tÝnh thêi gian cho ®èi thñ.
+
+     VÝ dô néi dung mét file n­íc ®i cã tªn lµ M1.DAT:
+       WIN
+       600
+       1200
+
+     §©y lµ th«ng b¸o do träng tµi göi ®Õn  b¸o r»ng  ®èi thñ  cña b¹n
+     (ng­êi mµ träng tµi ghi thay) lµ ng­êi chiÕn th¾ng. Thêi gian cßn
+     l¹i cña ng­êi ®i tiªn lµ  600 gi©y  trong khi  thêi gian  cña ®èi
+     ph­¬ng cßn nh÷ng 1200 gi©y.
+
+c. Qui ®Þnh néi dung file ghi biªn b¶n REPORT.TXT
+   + §Æt ë th­ môc hiÖn t¹i (n¬i ®øng gäi ch­¬ng tr×nh cê cña b¹n).
+   + Lµ mét file v¨n b¶n (TEXT) víi tªn REPORT.TXT.
+   + Qui ®Þnh chi tiÕt c¸c dßng nh­ sau:
+     Dßng 1, 2, 3: Cho biÕt c¸c th«ng tin vÒ  ng­êi viÕt  ch­¬ng tr×nh
+     vµ ch­¬ng tr×nh, bao gåm hä tªn vµ ®Þa chØ (ë d¹ng tiÕng Anh hoÆc
+     tiÕng ViÖt kh«ng dÊu hoÆc  tiÕng ViÖt  theo bé  m· TCVN  5712 ®Òu
+     ®­îc). C¸c dßng kh«ng ®­îc phÐp v­ît qu¸  255 cét.  NÕu  dßng nµo
+     kh«ng dïng ®­îc phÐp ®Æt lµ dßng trèng.
+
+     Dßng 4: Cho biÕt lo¹i ®Êu thñ cña c¶ hai  bªn vµ  ai lµ  ng­êi ®i
+     tr­íc. Nã chÝnh lµ néi dung cña c¸c dßng 1 vµ 2 lÊy tõ file
+     PLAY.INI ghÐp l¹i.
+     Nh­ vËy néi dung cña dßng 4 chØ ®­¬c phÐp lµ c¸c hai tõ  (ph¶i lµ
+     HUMAN, COMPUTER, OTHER) c¸ch nhau b»ng 1 kho¶ng tr¾ng.
+
+     C¸c dßng tiÕp theo tõ dßng 5 trë ®i dïng ®Ó ghi c¸c n­íc cê trong
+     khi diÔn ra trËn ®Êu. Qui ®Þnh néi dung cña mét dßng ghi  n­íc ®i
+     nh­ d­íi, c¸c néi dung nµy chØ ®­îc phÐp ng¨n c¸ch nhau  b»ng mét
+     dÊu c¸ch:
+      . Mét con sè cho biÕt thø tù c¸c dßng ghi ®i (b¾t ®Çu tõ 1).
+      . N­íc ®i cña ®èi thñ ®i tr­íc. N­íc ®i ghi ë d¹ng ch÷ hoa.
+      . N­íc ®i cña ®èi thñ ®i sau. N­íc ®i ghi ë d¹ng ch÷ hoa.
+
+     VÝ dô: sau ®©y lµ mét phÇn mét biªn b¶n cña mét trËn ®Êu. Ch­¬ng
+     tr×nh t¹o biªn b¶n nµy lµ ch­¬ng tr×nh ®i tr­íc.
+
+         Ch­¬ng tr×nh Tr¹ng Cê, b¶n 2.5 - ngµy 1/1/1999
+         Ng­êi viÕt: Ph¹m Minh TrÝ.
+         §Þa chØ: 3-P17 Tr­¬ng §Þnh, Hµ néi, ViÖt nam
+         OTHER COMPUTER
+         1 H2E2 H9H7
+         2 H0G2 B9C7
+         3 I0H0 H7I7
+
+     File biªn b¶n trªn cho biÕt trËn  ®Êu diÔn  ra gi÷a  ch­¬ng tr×nh
+     cña b¹n vµ mét ch­¬ng tr×nh kh¸c, ch­¬ng tr×nh cña b¹n ®i  sau vµ
+     ®i nh÷ng n­íc ë cét bªn ph¶i (tõ dßng 4 trë ®i).
+
+ Qui ®Þnh vÒ th¾ng thua
+  - Bªn th¾ng lµ bªn (cã mét trong c¸c ®iÒu sau lµ ®óng):
+    + chiÕu bÝ hoÆc ¨n ®­îc T­íng ®èi ph­¬ng.
+    + ®èi ph­¬ng bÞ xö thua.
+  - Bªn thua lµ bªn (cã mét trong c¸c ®iÒu sau lµ ®óng):
+    + bÞ chiÕu bÝ hoÆc mÊt T­íng
+    + ph¹m c¸c lçi kÜ thuËt: sai luËt ®i qu©n; ®i  n­íc g©y  lÆp trong
+      30 n­íc; hÕt giê trong khi ®èi ph­¬ng cßn trªn 5 phót;   sai qui
+      ­íc file.
+    + thùc hiÖn sai h­íng dÉn cña träng tµi ghi trong file PLAY.INI.
+    + mét n­íc ®i v­ît qu¸ 15 phót.
+    + kh«ng ghi hoÆc ghi sai biªn b¶n (file REPORT.TXT).
+    + yªu cÇu cã ng­êi can thiÖp gi÷a cuéc ®Êu (nh­  ®ßi bÊm  mét phÝm
+      nµo ®ã).
+    + treo m¸y, khëi ®éng l¹i m¸y (trõ tr­êng hîp treo m¸y,   háng hãc
+      ®­îc ban träng tµi x¸c nhËn kh«ng do ch­¬ng tr×nh th× v¸n ®Êu sÏ
+      ®­îc tiÕn hµnh l¹i).
+    + cã hµnh vi ph¸ ho¹i nh­ b¶n th©n nhiÔm virus,   cè t×nh  g©y l©y
+      lan virus, lµm háng hÖ thèng,  kh«ng cho  c¸c ch­¬ng  tr×nh kh¸c
+      ho¹t ®éng (th­êng ®ã lµ c¸c ch­¬ng tr×nh cña  träng tµi  dïng ®Ó
+      gi¸m s¸t tù ®éng ch­¬ng tr×nh cña b¹n).
+  - Mét v¸n cê ®­îc c«ng nhËn lµ hoµ nÕu:
+    + v¸n cê ë vµo t×nh tr¹ng hoµ cê nh­:  c¶ hai  kh«ng cßn  qu©n tÊn
+      c«ng, hoÆc vµo mét t×nh tr¹ng ®· ®­îc c«ng nhËn lµ ch¾c ch¾n hoµ
+      (vÝ dô T­íng M· ®Êu víi T­íng Ph¸o.
+    + mét bªn hÕt giê trong khi ®èi ph­¬ng chØ cßn tõ 5 phót trë xuèng
+      vµ kh«ng bªn nµo ®ang ë  trong t×nh  tr¹ng bÞ  chiÕu bÝ  hoÆc sÏ
+      chiÕu bÝ sau 4 (nöa) n­íc ®i.
+    + cã mét bªn ®i mét qu©n cê g©y lÆp l¹i mét thÕ cê ®· cã  tõ tr­íc
+      ®ã 30 (nöa) n­íc ®i.
+
+3. C¸c ®Þa chØ cÇn quan t©m
+a. C¸c c¸ch göi ch­¬ng tr×nh tham gia gi¶i
+  - NÕu göi trùc tiÕp hoÆc qua b­u ®iÖn, b¹n h·y göi ch­¬ng  tr×nh cña
+    m×nh b»ng ®Üa mÒm lo¹i 1.4 MB, trªn phong b× xin ghi dßng ch÷:
+         KÝnh göi: Ban tæ chøc Gi¶i cê m¸y tÝnh
+    vµ xin ghi mét trong c¸c ®Þa chØ d­íi ®©y:
+       + T¹p chÝ ThÕ giíi Vi tÝnh
+         79 Tr­¬ng §Þnh, QuËn 1, Tp HCM
+
+       + T¹p chÝ ThÕ giíi Vi tÝnh (v¨n phßng ®¹i diÖn)
+         69 Th¸i ThÞnh, QuËn §èng §a, Hµ Néi
+
+       + Khoa C«ng NghÖ th«ng tin
+         §¹i häc Quèc gia Hµ Néi
+         334 NguyÔn Tr·i, QuËn Thanh Xu©n, Hµ Néi
+
+  - Qua email: b¹n còng cã thÓ chän mét trong c¸c ®Þa chØ nhËn email
+         pcworldvn@hcm.vnn.vn
+         phhnguyen@yahoo.com
+
+b. C¸c ®Þa chØ lÊy ch­¬ng tr×nh mÉu vµ tµi liÖu
+ T¹p chÝ ThÕ giíi Vi tÝnh
+    §Þa chØ nh­ trªn
+ Trang chñ:
+    http://www.Geocities.com/SiliconValley/Grid/6544/
+
+Chóc c¸c b¹n cã ch­¬ng tr×nh tham gia gi¶i tèt.

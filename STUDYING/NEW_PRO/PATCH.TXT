@@ -1,0 +1,34 @@
+-------------------------------------------------------------------------------
+
+                   /-/ Patch File Created by NST /-/
+
+-------------------------------------------------------------------------------
+
+If you make any change in file 'PATCH.PAS', you'll must follow these steps:
+
+  + Step 1 : Compile file 'PATCH.PAS' to 'PATCH.EXE'.
+             (Simply by press 'Alt+C' and then press 'D'
+              Make sure that item 'DESTINATION' is switch to 'DISK'
+              Press Alt+F9 to compile).
+             Remember the size of file 'PATCH.EXE'.
+
+  + Step 2 : Open file 'PATCH.PAS', find the line 'Offset := XXXX;'.
+             Change 'XXXX' to the size of file 'PATCH.EXE'.
+             (Do not modify any else!)
+
+  + Step 3 : Compile file 'PATCH.PAS' to 'PATCH.EXE' again.
+
+-------------------------------------------------------------------------------
+
+USING:
+
+  Systax: 
+         PATCH.EXE [/M:Filename | /S[:Filename]]
+
+  
+  + /M:Filename     Merge 'PATCH.EXE' with specified Filename
+  + /S[:Filename]   Spit the file 'PATCH.EXE' and attached file
+                    Attached file is specified by Filename. If there's no
+                    specification, attached file is 'PATCH.PCH'
+
+-------------------------------------------------------------------------------

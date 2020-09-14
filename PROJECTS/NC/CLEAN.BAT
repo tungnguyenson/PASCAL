@@ -1,0 +1,2 @@
+@del *.tpu
+@del *.exe

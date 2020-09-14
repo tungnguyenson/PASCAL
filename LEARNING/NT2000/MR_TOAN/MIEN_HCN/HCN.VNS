@@ -1,0 +1,27 @@
+Trong mÆt ph¼ng täa ®é cho 1 h×nh ch÷ nhËt cã 2 ®Ønh ®èi diÖn lµ (0, 0, W, H). 
+Trªn c¸c c¹nh cña h×nh ch÷ nhËt ng­êi ta xĞt c¸c cÆp ®iÓm sao cho mçi cÆp ®iÓm
+x¸c ®Şnh 1 ®­êng th¼ng c¾t h×nh ch÷ nhËt. Gi¶ thiÕt c¸c ®­êng th¼ng nµy lµ kh¸c
+nhau. H·y x¸c ®Şnh sè phÇn bŞ c¾t cña h×nh ch÷ nhËt
+DL vµo: HCN.INP
+  - Dßng ®Çu lµ W vµ H
+  - Sè cÆp ®iÓm K
+  - K dßng tiÕp mçi dßng  m« t¶ 1  cÆp ®iÓm gåm  4 gi¸ trŞ  to¹ ®é (2 gi¸
+    trŞ to¹ dé cho 1 ®iÓm). 
+    C¸c gi¸ trŞ  to¹ ®é lµ nguyªn  0..32767. K <= 100
+    Gi¶ thiÕt d÷ liÖu vµo lµ ®óng ®¾n.
+DL ra: HCN.OUT
+  - Sè phÇn bŞ c¾t.
+
+  Vİ dô:
+  HCN.INP
+    6 4
+    6
+    0 2 6 2
+    0 3 6 0
+    1 0 3 4
+    4 0 5 4
+    0 4 2 4
+    3 0 6 3
+
+  HCN.OUT
+    18
